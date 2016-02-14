@@ -1,0 +1,6 @@
+Location:
+D:\Program Files\cygwin64\bin\bash.exe
+Working Directory:
+D:\Program Files\cygwin64\bin
+Arguments:
+--login -c "cd/cygdrive/d/android-ndk-tools/android-ndk-r7/samples/hello-jni&&$NDK/ndk-build"
